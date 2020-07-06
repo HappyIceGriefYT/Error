@@ -1,0 +1,43 @@
+Traceback (most recent call last):
+  File "hackwill_raid.py", line 9, in <module>
+    longpoll = VkBotLongPoll(vk_session,191378536) #цифровой id вашей группы
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 218, in __init__
+    self.update_longpoll_server()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 231, in update_longpoll_server
+    response = self.vk.method('groups.getLongPollServer', values)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\vk_api.py", line 646, in method
+    raise error
+vk_api.exceptions.ApiError: [100] One of the parameters specified was missing or invalid: longpoll for this group is not enabled.
+
+C:\Users\User\Desktop>python hackwill_raid.py
+Traceback (most recent call last):
+  File "hackwill_raid.py", line 9, in <module>
+    longpoll = VkBotLongPoll(vk_session,191378536) #цифровой id вашей группы
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 218, in __init__
+    self.update_longpoll_server()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 231, in update_longpoll_server
+    response = self.vk.method('groups.getLongPollServer', values)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\vk_api.py", line 646, in method
+    raise error
+vk_api.exceptions.ApiError: [100] One of the parameters specified was missing or invalid: longpoll for this group is not enabled.Traceback (most recent call last):
+  File "hackwill_raid.py", line 9, in <module>
+    longpoll = VkBotLongPoll(vk_session,191378536) #цифровой id вашей группы
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 218, in __init__
+    self.update_longpoll_server()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 231, in update_longpoll_server
+    response = self.vk.method('groups.getLongPollServer', values)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\vk_api.py", line 646, in method
+    raise error
+vk_api.exceptions.ApiError: [100] One of the parameters specified was missing or invalid: longpoll for this group is not enabled.
+
+C:\Users\User\Desktop>python hackwill_raid.py
+Traceback (most recent call last):
+  File "hackwill_raid.py", line 9, in <module>
+    longpoll = VkBotLongPoll(vk_session,191378536) #цифровой id вашей группы
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 218, in __init__
+    self.update_longpoll_server()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\bot_longpoll.py", line 231, in update_longpoll_server
+    response = self.vk.method('groups.getLongPollServer', values)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python38-32\lib\site-packages\vk_api\vk_api.py", line 646, in method
+    raise error
+vk_api.exceptions.ApiError: [100] One of the parameters specified was missing or invalid: longpoll for this group is not enabled.
